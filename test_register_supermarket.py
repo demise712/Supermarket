@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import supermarket_register
+import register_supermarket
 import unittest
 
 class TestSupermarketRegister(unittest.TestCase):
