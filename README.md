@@ -3,7 +3,7 @@
 
 - Lists each​ ​product that are registered,
 - Add/register a product
-- Remove a product that are registered
+- Remove a product that is registered
 - Calculate ​the​ ​total​ ​amount​ ​of​ ​sale of selected products (including local​ ​sales​ ​tax​)​ ​
 - Save the changes, if new product is registered or removed
 
