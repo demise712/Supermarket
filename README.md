@@ -28,5 +28,3 @@ make run
 
 # Docker
 docker run -e SKUS="${SKUS}" -it Supermarket
-
-docker start -i <CONTAINER_ID>  # continue from last saved state
